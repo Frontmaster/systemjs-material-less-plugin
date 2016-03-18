@@ -1,5 +1,5 @@
 {
-  "name": "systemjs-less-plugin",
+  "name": "systemjs-material-less-plugin",
   "version": "1.4.1",
   "description": "Loads less files on the fly, and compiles then at build time",
   "main": "less.js",
